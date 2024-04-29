@@ -1,0 +1,88 @@
+30-08-2023 12:28:50	This log contains information about the import schema operation into project 'ydams.db.ssms' on computer 'LAPTOP-0O8B9J7C' by user 'alphajack'.
+30-08-2023 12:28:50	Import of database schema has started.
+30-08-2023 12:28:51	Gathering database credentials
+30-08-2023 12:28:51	Gathering database options
+30-08-2023 12:28:51	Gathering generic database scoped configuration option
+30-08-2023 12:28:51	Gathering users
+30-08-2023 12:28:51	Gathering roles
+30-08-2023 12:28:51	Gathering application roles
+30-08-2023 12:28:51	Gathering role memberships
+30-08-2023 12:28:51	Gathering filegroups
+30-08-2023 12:28:51	Gathering full-text catalogs
+30-08-2023 12:28:51	Gathering assemblies
+30-08-2023 12:28:51	Gathering certificates
+30-08-2023 12:28:51	Gathering asymmetric keys
+30-08-2023 12:28:51	Gathering symmetric keys
+30-08-2023 12:28:51	Gathering encrypted symmetric keys
+30-08-2023 12:28:51	Gathering schemas
+30-08-2023 12:28:51	Gathering XML schema collections
+30-08-2023 12:28:51	Gathering user-defined data types
+30-08-2023 12:28:51	Gathering user-defined types
+30-08-2023 12:28:51	Gathering table types
+30-08-2023 12:28:51	Gathering unique keys for table types
+30-08-2023 12:28:51	Gathering primary keys for table types
+30-08-2023 12:28:51	Gathering indexes for table types
+30-08-2023 12:28:51	Gathering check constraints for table types
+30-08-2023 12:28:51	Gathering default constraints for table types
+30-08-2023 12:28:51	Gathering partition functions
+30-08-2023 12:28:51	Gathering partition schemes
+30-08-2023 12:28:51	Gathering functions
+30-08-2023 12:28:51	Gathering encrypted functions
+30-08-2023 12:28:51	Gathering aggregates
+30-08-2023 12:28:51	Gathering procedures
+30-08-2023 12:28:51	Gathering encrypted procedures
+30-08-2023 12:28:51	Gathering tables
+30-08-2023 12:28:51	Gathering primary keys
+30-08-2023 12:28:51	Gathering unique constraints
+30-08-2023 12:28:51	Gathering foreign keys
+30-08-2023 12:28:51	Gathering default constraints
+30-08-2023 12:28:51	Gathering check constraints
+30-08-2023 12:28:51	Gathering views
+30-08-2023 12:28:51	Gathering encrypted views
+30-08-2023 12:28:51	Gathering indexes
+30-08-2023 12:28:51	Gathering statistics
+30-08-2023 12:28:51	Gathering full-text index stoplists
+30-08-2023 12:28:51	Gathering search property lists
+30-08-2023 12:28:51	Gathering search properties
+30-08-2023 12:28:51	Gathering full-text indexes
+30-08-2023 12:28:51	Gathering column store indexes
+30-08-2023 12:28:51	Gathering spatial indexes
+30-08-2023 12:28:51	Gathering XML indexes
+30-08-2023 12:28:51	Gathering Selective XML indexes
+30-08-2023 12:28:51	Gathering encrypted triggers
+30-08-2023 12:28:51	Gathering triggers
+30-08-2023 12:28:51	Gathering encrypted and clr ddl triggers
+30-08-2023 12:28:51	Gathering ddl triggers
+30-08-2023 12:28:51	Creating edge constraints
+30-08-2023 12:28:51	Gathering synonyms
+30-08-2023 12:28:51	Gathering defaults
+30-08-2023 12:28:51	Gathering data constraint uddt bindings
+30-08-2023 12:28:51	Gathering rules
+30-08-2023 12:28:51	Gathering data constraint uddt bindings
+30-08-2023 12:28:51	Gathering message types
+30-08-2023 12:28:51	Gathering queues
+30-08-2023 12:28:51	Gathering contracts
+30-08-2023 12:28:52	Gathering services
+30-08-2023 12:28:52	Gathering event notifications
+30-08-2023 12:28:52	Gathering remote service bindings
+30-08-2023 12:28:52	Gathering broker priorities
+30-08-2023 12:28:52	Gathering signatures
+30-08-2023 12:28:52	Gathering data compression options
+30-08-2023 12:28:52	Gathering sequence types
+30-08-2023 12:28:52	Gathering security policies
+30-08-2023 12:28:52	Gather column encryption keys
+30-08-2023 12:28:52	Gathering column master keys
+30-08-2023 12:28:52	Gathering external data sources
+30-08-2023 12:28:52	Gathering external file formats
+30-08-2023 12:28:52	Gathering external tables
+30-08-2023 12:28:52	Gathering database permissions
+30-08-2023 12:28:52	Gathering extended properties
+30-08-2023 12:28:52	Gathering assemblies
+30-08-2023 12:28:52	Gathering credentials
+30-08-2023 12:28:52	Gathering logins
+30-08-2023 12:28:52	Gathering server audits
+30-08-2023 12:28:53	Scanning project for duplicate elements
+30-08-2023 12:28:53	Finished duplicate element processing
+30-08-2023 12:28:54	Finished importing database.
+30-08-2023 12:28:54	A summary of the import was saved to the following location: D:\YodaDAMS\DB\ydams.db.ssms\Import Schema Logs\ydams.db.ssms_20230830065850.log
+30-08-2023 12:28:54	Click Finish to continue...
