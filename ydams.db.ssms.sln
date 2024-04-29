@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ydams.db.ssms", "ydams.db.ssms.sqlproj", "{2915520F-EB0A-4EC7-85B6-372B42FDF7F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2915520F-EB0A-4EC7-85B6-372B42FDF7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2915520F-EB0A-4EC7-85B6-372B42FDF7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2915520F-EB0A-4EC7-85B6-372B42FDF7F4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2915520F-EB0A-4EC7-85B6-372B42FDF7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2915520F-EB0A-4EC7-85B6-372B42FDF7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2915520F-EB0A-4EC7-85B6-372B42FDF7F4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397A5941-39F6-495D-975C-4A1D44FC7D99}
+	EndGlobalSection
+EndGlobal
